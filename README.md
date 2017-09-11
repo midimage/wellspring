@@ -1,3 +1,2 @@
 # wellspring
-just teaching myself stuff
-this line is an edit
+This repository is for data that I come across in my effort to teach myself code.  I don't have a specific need requiring a Github account, it's just another avenue of computing to familiarize myself with.  I love open source software, too, and would like to play a part in shaping it.  At least, I imagine this repository will hold my first efforts at studying code, such as: javascript, c#, and python; my interest in audio and sequencing, like: MIDI, VST plugins, and MaxMSP; any tutorials/study materials pertinent to these subjects.
